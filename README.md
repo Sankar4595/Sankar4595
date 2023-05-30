@@ -3,7 +3,7 @@
 
 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
 
-📑 Resume  [click here](https://drive.google.com/file/d/1E7N752ramUQeU1xJGo_w_ZyI9ki9r1iV/view?usp=sharing)
+📑 Resume  [click here](https://drive.google.com/file/d/13GUvEz0M_YrueDhWUmg9WWR7zuJ59026/view?usp=sharing)
 
 📫 How to reach me: 95sankar@gmail.com
 
