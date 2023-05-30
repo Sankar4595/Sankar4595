@@ -1,6 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning MERN stack
 
+💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
+
+📑 Resume  [click here](https://drive.google.com/file/d/1E7N752ramUQeU1xJGo_w_ZyI9ki9r1iV/view?usp=sharing)
+
 📫 How to reach me: 95sankar@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankar4595&label=Profile%20views&color=0e75b6&style=flat" alt="sankar4595" /> </p>
