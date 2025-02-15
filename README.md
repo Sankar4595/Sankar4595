@@ -1,7 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning MERN stack
+🌱 I’m currently learning MERN and MEAN stack
 
-💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
+💬 Ask me about **Html, CSS , React , Angular js, Node , MongoDB , Express**
 
 📑 Resume  [click here](https://drive.google.com/file/d/13GUvEz0M_YrueDhWUmg9WWR7zuJ59026/view?usp=sharing)
 
