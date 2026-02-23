@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning MERN and MEAN stack
+👋 I’m Sankaranarayanan Saminathan, a passionate Full Stack Developer with hands-on experience in creating dynamic and scalable web applications. My expertise lies in the MERN stack, and I’m adept at both frontend and backend development, working with technologies such as React.js, Next.js, Node.js, TypeScript, and various databases like MongoDB and MySQL.
 
 💬 Ask me about **Html, CSS , React , Angular js, Node , MongoDB , Express**
 
